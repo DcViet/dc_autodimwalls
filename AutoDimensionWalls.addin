@@ -1,0 +1,10 @@
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>AutoDimensionWalls</Name>
+    <Assembly>C:\Path\To\Your\DLL\AutoDimensionWalls.dll</Assembly>
+    <AddInId>F02B5DB5-2350-4E6C-8AF2-24B9EF4D6B23</AddInId>
+    <FullClassName>AutoDimensionWalls.Commands.AutoDimensionCommand</FullClassName>
+    <VendorId>AK01</VendorId>
+    <VendorDescription>Auto Tools for Revit</VendorDescription>
+  </AddIn>
+</RevitAddIns>
